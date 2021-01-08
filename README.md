@@ -1,3 +1,3 @@
-[a link] (https://seenucfl.github.io/background-generator.github.io/)
+[a link](https://seenucfl.github.io/background-generator.github.io/)
 # background-generator.github.io
 # generate custom background to style your website
